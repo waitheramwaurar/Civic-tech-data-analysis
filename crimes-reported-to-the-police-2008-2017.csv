@@ -1,0 +1,181 @@
+geo_level,geo_code,geo_version,name,year,crimes,total
+country,KE,,Kenya,2008,Breakings,6626
+country,KE,,Kenya,2008,Corruption,133
+country,KE,,Kenya,2008,Criminal damage,3760
+country,KE,,Kenya,2008,Dangerous drugs,4407
+country,KE,,Kenya,2008,Economic crimes,1898
+country,KE,,Kenya,2008,Homicide,2037
+country,KE,,Kenya,2008,Offences against morality,3116
+country,KE,,Kenya,2008,Offences involving police officers,33
+country,KE,,Kenya,2008,Offences involving tourists,6
+country,KE,,Kenya,2008,Other offences against persons,16496
+country,KE,,Kenya,2008,Other penal code offences,3994
+country,KE,,Kenya,2008,Robbery,3401
+country,KE,,Kenya,2008,Stealing,11435
+country,KE,,Kenya,2008,Theft by servant,2387
+country,KE,,Kenya,2008,Theft of stock,2269
+country,KE,,Kenya,2008,Total,63505
+country,KE,,Kenya,2008,Traffic offences,120
+country,KE,,Kenya,2008,Vehicles and other thefts,1387
+country,KE,,Kenya,2009,Breakings,7053
+country,KE,,Kenya,2009,Corruption,158
+country,KE,,Kenya,2009,Criminal damage,3417
+country,KE,,Kenya,2009,Dangerous drugs,5541
+country,KE,,Kenya,2009,Economic crimes,2324
+country,KE,,Kenya,2009,Homicide,2214
+country,KE,,Kenya,2009,Offences against morality,4068
+country,KE,,Kenya,2009,Offences involving police officers,56
+country,KE,,Kenya,2009,Offences involving tourists,5
+country,KE,,Kenya,2009,Other offences against persons,20539
+country,KE,,Kenya,2009,Other penal code offences,4864
+country,KE,,Kenya,2009,Robbery,2939
+country,KE,,Kenya,2009,Stealing,11972
+country,KE,,Kenya,2009,Theft by servant,2732
+country,KE,,Kenya,2009,Theft of stock,2876
+country,KE,,Kenya,2009,Total,72255
+country,KE,,Kenya,2009,Traffic offences,59
+country,KE,,Kenya,2009,Vehicles and other thefts,1439
+country,KE,,Kenya,2010,Breakings,6453
+country,KE,,Kenya,2010,Corruption,62
+country,KE,,Kenya,2010,Criminal damage,3327
+country,KE,,Kenya,2010,Dangerous drugs,5081
+country,KE,,Kenya,2010,Economic crimes,2662
+country,KE,,Kenya,2010,Homicide,2239
+country,KE,,Kenya,2010,Offences against morality,4817
+country,KE,,Kenya,2010,Offences involving police officers,37
+country,KE,,Kenya,2010,Offences involving tourists,1
+country,KE,,Kenya,2010,Other offences against persons,20012
+country,KE,,Kenya,2010,Other penal code offences,4956
+country,KE,,Kenya,2010,Robbery,2843
+country,KE,,Kenya,2010,Stealing,11986
+country,KE,,Kenya,2010,Theft by servant,2591
+country,KE,,Kenya,2010,Theft of stock,2244
+country,KE,,Kenya,2010,Total,70779
+country,KE,,Kenya,2010,Traffic offences,103
+country,KE,,Kenya,2010,Vehicles and other thefts,1365
+country,KE,,Kenya,2011,Breakings,7325
+country,KE,,Kenya,2011,Corruption,52
+country,KE,,Kenya,2011,Criminal damage,3345
+country,KE,,Kenya,2011,Dangerous drugs,4649
+country,KE,,Kenya,2011,Economic crimes,3036
+country,KE,,Kenya,2011,Homicide,2641
+country,KE,,Kenya,2011,Offences against morality,4703
+country,KE,,Kenya,2011,Offences involving police officers,27
+country,KE,,Kenya,2011,Offences involving tourists,0
+country,KE,,Kenya,2011,Other offences against persons,20144
+country,KE,,Kenya,2011,Other penal code offences,5726
+country,KE,,Kenya,2011,Robbery,3262
+country,KE,,Kenya,2011,Stealing,13797
+country,KE,,Kenya,2011,Theft by servant,2889
+country,KE,,Kenya,2011,Theft of stock,2269
+country,KE,,Kenya,2011,Total,75733
+country,KE,,Kenya,2011,Traffic offences,100
+country,KE,,Kenya,2011,Vehicles and other thefts,1768
+country,KE,,Kenya,2012,Breakings,7578
+country,KE,,Kenya,2012,Corruption,49
+country,KE,,Kenya,2012,Criminal damage,3769
+country,KE,,Kenya,2012,Dangerous drugs,4181
+country,KE,,Kenya,2012,Economic crimes,3369
+country,KE,,Kenya,2012,Homicide,2761
+country,KE,,Kenya,2012,Offences against morality,4806
+country,KE,,Kenya,2012,Offences involving police officers,69
+country,KE,,Kenya,2012,Offences involving tourists,0
+country,KE,,Kenya,2012,Other offences against persons,20698
+country,KE,,Kenya,2012,Other penal code offences,6109
+country,KE,,Kenya,2012,Robbery,3262
+country,KE,,Kenya,2012,Stealing,14111
+country,KE,,Kenya,2012,Theft by servant,2984
+country,KE,,Kenya,2012,Theft of stock,2377
+country,KE,,Kenya,2012,Total,77852
+country,KE,,Kenya,2012,Traffic offences,66
+country,KE,,Kenya,2012,Vehicles and other thefts,1663
+country,KE,,Kenya,2013,Breakings,6397
+country,KE,,Kenya,2013,Corruption,57
+country,KE,,Kenya,2013,Criminal damage,3603
+country,KE,,Kenya,2013,Dangerous drugs,4316
+country,KE,,Kenya,2013,Economic crimes,2750
+country,KE,,Kenya,2013,Homicide,2878
+country,KE,,Kenya,2013,Offences against morality,4779
+country,KE,,Kenya,2013,Offences involving police officers,95
+country,KE,,Kenya,2013,Offences involving tourists,14
+country,KE,,Kenya,2013,Other offences against persons,19344
+country,KE,,Kenya,2013,Other penal code offences,6250
+country,KE,,Kenya,2013,Robbery,3551
+country,KE,,Kenya,2013,Stealing,11455
+country,KE,,Kenya,2013,Theft by servant,2702
+country,KE,,Kenya,2013,Theft of stock,1965
+country,KE,,Kenya,2013,Total,71832
+country,KE,,Kenya,2013,Traffic offences,45
+country,KE,,Kenya,2013,Vehicles and other thefts,1631
+country,KE,,Kenya,2014,Breakings,5656
+country,KE,,Kenya,2014,Corruption,138
+country,KE,,Kenya,2014,Criminal damage,3709
+country,KE,,Kenya,2014,Dangerous drugs,4850
+country,KE,,Kenya,2014,Economic crimes,3038
+country,KE,,Kenya,2014,Homicide,2649
+country,KE,,Kenya,2014,Offences against morality,5184
+country,KE,,Kenya,2014,Offences involving police officers,53
+country,KE,,Kenya,2014,Offences involving tourists,21
+country,KE,,Kenya,2014,Other offences against persons,19911
+country,KE,,Kenya,2014,Other penal code offences,5648
+country,KE,,Kenya,2014,Robbery,3011
+country,KE,,Kenya,2014,Stealing,10042
+country,KE,,Kenya,2014,Theft by servant,2279
+country,KE,,Kenya,2014,Theft of stock,1848
+country,KE,,Kenya,2014,Total,69376
+country,KE,,Kenya,2014,Traffic offences,100
+country,KE,,Kenya,2014,Vehicles and other thefts,1239
+country,KE,,Kenya,2015,Breakings,5591
+country,KE,,Kenya,2015,Corruption,79
+country,KE,,Kenya,2015,Criminal damage,3983
+country,KE,,Kenya,2015,Dangerous drugs,5525
+country,KE,,Kenya,2015,Economic crimes,3244
+country,KE,,Kenya,2015,Homicide,2648
+country,KE,,Kenya,2015,Offences against morality,6164
+country,KE,,Kenya,2015,Offences involving police officers,71
+country,KE,,Kenya,2015,Offences involving tourists,19
+country,KE,,Kenya,2015,Other offences against persons,21174
+country,KE,,Kenya,2015,Other penal code offences,6223
+country,KE,,Kenya,2015,Robbery,2865
+country,KE,,Kenya,2015,Stealing,9528
+country,KE,,Kenya,2015,Theft by servant,2184
+country,KE,,Kenya,2015,Theft of stock,1961
+country,KE,,Kenya,2015,Total,72490
+country,KE,,Kenya,2015,Traffic offences,120
+country,KE,,Kenya,2015,Vehicles and other thefts,1111
+country,KE,,Kenya,2016,Breakings,5621
+country,KE,,Kenya,2016,Corruption,92
+country,KE,,Kenya,2016,Criminal damage,4307
+country,KE,,Kenya,2016,Dangerous drugs,6160
+country,KE,,Kenya,2016,Economic crimes,3503
+country,KE,,Kenya,2016,Homicide,2751
+country,KE,,Kenya,2016,Offences against morality,6228
+country,KE,,Kenya,2016,Offences involving police officers,57
+country,KE,,Kenya,2016,Offences involving tourists,15
+country,KE,,Kenya,2016,Other offences against persons,22295
+country,KE,,Kenya,2016,Other penal code offences,7047
+country,KE,,Kenya,2016,Robbery,2697
+country,KE,,Kenya,2016,Stealing,10361
+country,KE,,Kenya,2016,Theft by servant,2440
+country,KE,,Kenya,2016,Theft of stock,1918
+country,KE,,Kenya,2016,Total,76986
+country,KE,,Kenya,2016,Traffic offences,139
+country,KE,,Kenya,2016,Vehicles and other thefts,1355
+country,KE,,Kenya,2017,Breakings,6131
+country,KE,,Kenya,2017,Corruption,75
+country,KE,,Kenya,2017,Criminal damage,4262
+country,KE,,Kenya,2017,Dangerous drugs,5565
+country,KE,,Kenya,2017,Economic crimes,3695
+country,KE,,Kenya,2017,Homicide,2774
+country,KE,,Kenya,2017,Offences against morality,5492
+country,KE,,Kenya,2017,Offences involving police officers,86
+country,KE,,Kenya,2017,Offences involving tourists,15
+country,KE,,Kenya,2017,Other offences against persons,22515
+country,KE,,Kenya,2017,Other penal code offences,6772
+country,KE,,Kenya,2017,Robbery,2713
+country,KE,,Kenya,2017,Stealing,11656
+country,KE,,Kenya,2017,Theft by servant,2632
+country,KE,,Kenya,2017,Theft of stock,2136
+country,KE,,Kenya,2017,Total,77992
+country,KE,,Kenya,2017,Traffic offences,69
+country,KE,,Kenya,2017,Vehicles and other thefts,1404
